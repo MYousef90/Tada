@@ -1,0 +1,19 @@
+DAGSTART PRO - TESTEN EN INSTALLEREN
+
+Snel testen op computer:
+1. Pak het ZIP-bestand uit.
+2. Open index.html in Chrome of Edge.
+
+Installeren op telefoon als PWA:
+Een installeerbare PWA moet via HTTPS worden geopend. Upload de uitgepakte map bijvoorbeeld naar GitHub Pages, Netlify Drop of een eigen beveiligde webserver. Open daarna de link op de telefoon.
+
+Android / Chrome:
+Open de link > menu met drie puntjes > App installeren of Toevoegen aan startscherm.
+
+iPhone / Safari:
+Open de link > deelknop > Zet op beginscherm.
+
+Let op:
+- Gegevens worden lokaal op het apparaat opgeslagen.
+- Er is nog geen centrale database, login, foto-upload of koppeling met bedrijfssoftware.
+- Wis je browsergegevens, dan kunnen lokale appgegevens verdwijnen.
